@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "name": "n2.algersoft.org",
+      "url": "n2.algersoft.org",
+      "port": 19666,
+      "ssl": false
+    },
+    {
+      "name": "n3.algersoft.org",
+      "url": "n3.algersoft.org",
+      "port": 19666,
+      "ssl": false
+    },
+    {
+      "name": "n4.algersoft.org",
+      "url": "n4.algersoft.org",
+      "port": 19666,
+      "ssl": false
+    },
+    {
+      "name": "n5.algersoft.org",
+      "url": "n5.algersoft.org",
+      "port": 19666,
+      "ssl": false
+    }
+  ]
+}
